@@ -6,7 +6,7 @@ let boardRow;
 let minesPositions = [];
 
 
-//hello viatnam!!!!!!!
+//hello viatnam!!!!!!! wazaaaaaaaaaaaaaaaaaa what a goal!
 
 ///////////////////////////////////////////// init game  ////////////////////////////////////////////////
 
