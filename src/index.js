@@ -5,6 +5,9 @@ const board = new Array(boardLength);
 let boardRow;
 let minesPositions = [];
 
+
+//hello viatnam!!!!!!!
+
 ///////////////////////////////////////////// init game  ////////////////////////////////////////////////
 
 async function initGame() {
